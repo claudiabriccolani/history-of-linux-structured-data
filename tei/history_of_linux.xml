@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>History of Linux</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Encoded for the course "Information Science and Cultural Heritage", a.y. 2025-2026.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>History of Linux</title>
+          <publisher>Wikipedia, The Free Encyclopedia</publisher>
+          <ref target="https://en.wikipedia.org/wiki/History_of_Linux">https://en.wikipedia.org/wiki/History_of_Linux</ref>
+          <!-- TODO: revision date and oldid of the Wikipedia revision used -->
+          <date>[revision date]</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- TODO -->
+      <p/>
+    </body>
+  </text>
+</TEI>
